@@ -1,0 +1,4 @@
+name: BetterEnchanting
+version: '${project.version}'
+main: versiongamma.betterenchanting.BetterEnchanting
+api-version: '1.20'
